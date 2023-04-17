@@ -17,7 +17,7 @@ Question: what’s the minimum and maximum time that an attraction could be rent
 Answer: minimum is one day, so that means you can’t get it and be picked up on the same day and I don’t really have a maximum because for me it’s the longer the better.
 	
 Question: do you have more than one of one type of attraction?
-Answer: no, we only own one of each.
+Answer: Yes, we have a lot from each type of attraction except for the ferris wheel but this I'll keap track by myself if it's not available.
 
 Question: what’s the minimum and maximum price you rent an attraction for?
 Answer: the minimum is fifty and the maximum is ten thousand.
@@ -37,17 +37,15 @@ Answer: we always do but it can be as low as a dollar and as high hundred thousa
 Question: can a customer order more than one attraction?
 Answer: yes, but we enter it as a separate order.
 
-Notes
-1: I have I lot of different types of jumping balloons so for this I need a separate column 
-   with the jumping balloon type. 
-2: The delivery fee is twenty if your total price is under two hundred. If it’s two hundred or 
-   Over than it’s ten.
+Notes:
+The delivery fee is twenty if your total price is under two hundred. If it’s two hundred or 
+Over than it’s ten.
 
 I’ll need these reports:
 1: I want to know in which country I make the most profit, I need the sum of my profit per country. There is no need to include the delivery fee as it goes straight to the driver
 2: I want to expand myself so I could except more orders, I want to know what I should buy more of. count the attractions per type.
 3: I need the customer information in the following format: 
-LastName, FirstName – Attraction (Totalprice), CountryDelivered
+   LastName, FirstName – Attraction (Totalprice), CountryDelivered
 4: I want to know how many days the attractions were ordered, ordered from most to least days
 
 Sample Data:
